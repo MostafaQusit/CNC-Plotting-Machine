@@ -6,7 +6,7 @@
 - This coding project cover the closed loop case by programming the following tasks:
   - controlling the the 2 DC motors and the servo motor.
   - collecting Encoder feedback reading for error control.
-  - applying inverse kinematics to convert the desired point of end-effetor to the actuators moition.
+  - applying inverse kinematics to convert the desired point of end-effetor to the actuators motion.
   - create the required draw patterns for writing (line, arc, ..).
   - study the whole alpabetic letters (capital, small), numbers and some speial symbols and store their shapes as connected paths.
   - connecting the project to Bluetooth to communicate with mobile app to give the required words to write.
